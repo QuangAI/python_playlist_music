@@ -1,2 +1,2 @@
 # python_playlist_music
-App - saving favorite music using python
+App - saving favorite songs and playing songs using python
